@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+
+# Environment variables
+.env
+config.py
+
+# User uploads
+user_uploads/
+
+# Generated reels
+template/template/static/reels/
+
+# VS Code
+.vscode/
+
+# Done file
+done.txt
+
+# ffmpeg input text
+C:\Users\HP\Desktop\VidSnapAI\ffmpeg\sample_input_ffmpeg.txt
+
+node_modules/
