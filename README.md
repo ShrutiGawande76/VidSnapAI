@@ -15,13 +15,15 @@ Clean frontend built using Bootstrap
 Easy to run locally
 
 
-Tech Stack:
+## Tech Stack
 
-Backend
-Python
-Flask
-Frontend
-HTML
-Bootstrap
-API
-ElevenLabs AI Voice API
+**Backend**
+- [Python](https://www.python.org/)
+- [Flask](https://flask.palletsprojects.com/)
+
+**Frontend**
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Bootstrap](https://getbootstrap.com/)
+
+**API Integration**
+- [ElevenLabs API](https://elevenlabs.io/)
